@@ -119,12 +119,14 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 3. Typewriter Animation (Updated to B.Tech CE & AICTE Intern)
+  // 3. Typewriter Animation (Software Engineer & Data Science Roles)
   const typewriterElement = document.getElementById('typewriter');
   const roles = [
+    'Software Engineer & Data Science',
     'B.Tech Computer Engineering (CE)',
     'AICTE & IBM SkillsBuild Intern',
     'Full-Stack Web Developer',
+    'Data Science & Analytics',
     'LeetCode Problem Solver'
   ];
   let roleIndex = 0;
